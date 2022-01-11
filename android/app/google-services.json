@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013000552996",
+    "project_id": "oyesapp2",
+    "storage_bucket": "oyesapp2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013000552996:android:611d42842897184b404eb1",
+        "android_client_info": {
+          "package_name": "com.sanaa.oye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013000552996-k7930b43e8u4qoqs42qpaaibkb8t59qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLV7mu49-p4Hgme7BLDBzvnPmIBIL2FQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013000552996-k7930b43e8u4qoqs42qpaaibkb8t59qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
